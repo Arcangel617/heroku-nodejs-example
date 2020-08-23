@@ -43,9 +43,9 @@ Logged in as your@email.com
 ```
 ## Basic Heroku commands
 
-heroku login
-heroku create
-git push heroku master
-heroku ps:scale web=1\n
-heroku open
-heroku logs --tail
+- heroku login
+- heroku create
+- git push heroku master
+- heroku ps:scale web=1\n
+- heroku open
+- heroku logs --tail

@@ -11,6 +11,6 @@ app.get('/:name', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`heroku-nodejs-example app listening at http://localhost:${port}`)
 })
 
