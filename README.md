@@ -37,11 +37,11 @@ Use the heroku login command to log in to the Heroku CLI:
 
 ```
 heroku: Press any key to open up the browser to login or q to exit: 
-Opening browser to https://cli-auth.heroku.com/auth/cli/browser/66430bf8-5496-4857-8577-7dc28395d4b9?requestor=SFMyNTY.g3QAAAACZAAEZGF0YW0AAAANMTgxLjg0LjIyLjEwMGQABnNpZ25lZG4GACzZlxl0AQ.SG9QVtqoTQVJNgrPRe22wCbEUVSQkmvBZrzS2H5CVE0
+Opening browser to https://cli-auth***
 Logging in... done
-Logged in as artigue_arcangel@hotmail.com
+Logged in as your@email.com
 ```
-
+## Basic Heroku commands
 
 heroku login
 heroku create
